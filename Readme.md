@@ -91,13 +91,53 @@ Comparar resultados y analizar la claridad y precisión de los patrones generado
 
 🔧 Herramientas y tecnologías
 
-Python 3.10 y GOOGLE_API
+Python 3.10 ,GOOGLE_API,OPENAI-API
 
 
 
 Técnicas de prompting: Zero-shot, One-shot, Few-shot
 
 Librerías opcionales: Pandas, Matplotlib/Seaborn (visualización de tablas de talles)
+# Proyecto: Generación de patrones de chaleco
+
+Este proyecto permite generar patrones de chalecos a partir de:  
+
+1. **Imagen a texto** → convierte la imagen del chaleco en instrucciones fila por fila con símbolos de colores.  
+2. **Texto a texto (Gemini)** → genera instrucciones completas de patrón en español usando la API Gemini de OpenAI.  
+
+El resultado final se puede exportar a **PDF** con patrón gráfico, instrucciones y leyenda de colores.
+
+---
+
+## 📦 Librerías instaladas
+
+Para que el proyecto funcione correctamente, se instalaron las siguientes librerías:
+
+- **Pillow** → procesamiento de imágenes (abrir, redimensionar, convertir paleta de colores).  
+- **NumPy** → manejo de arrays y procesamiento de la grilla de colores.  
+- **fpdf2** → generación de PDF con texto y gráficos de colores.  
+- **openai** → conexión con la API Gemini de OpenAI para generar instrucciones de patrón.  
+- **python-dotenv** → carga de variables de entorno, como la API Key de OpenAI.
+
+---
+
+## ⚡ Instalación
+
+Ejecutar en la terminal:
+
+```bash
+pip install pillow numpy fpdf2 openai python-dotenv
+
+💰 Estimación de costos de tokens en Gemini
+Tokens	Aproximación de caracteres	Costo estimado (USD)
+998	~3,992	$0.002
+101	~404	$0.0002 
+🔹 Notas
+
+1 token ≈ 4 caracteres.
+
+El costo se calcula sobre 1,000 caracteres = $0.0005 USD.
+
 
 🔍 Conclusión
 

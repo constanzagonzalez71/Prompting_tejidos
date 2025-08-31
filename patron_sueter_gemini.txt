@@ -1,0 +1,65 @@
+## Patrón de Suéter Infantil: Modelo "Osito"
+
+Este patrón proporciona instrucciones para tejer un suéter infantil de punto jersey en dos tallas: 4 y 6 años.
+
+**1. Materiales:**
+
+* Lana:  Lana suave para bebé (100% acrílico o mezcla de lana y acrílico recomendada).  Calcular la cantidad necesaria según la tensión y el talle.  Se estima:
+    * Talle 4: 200-250 gramos
+    * Talle 6: 250-300 gramos
+* Agujas de tejer:  Número adecuado a la lana elegida (ver tensión). Se recomienda probar con agujas de 4-5 mm.
+* Agujas de crochet:  Para rematar las costuras (opcional).
+* Marcadores de punto:  Para marcar los aumentos y disminuciones.
+* Tijeras.
+* Aguja lanera para coser las costuras.
+
+**2. Tensión:**
+
+* Muestra de 10 cm x 10 cm:  Ajustar el número de agujas según la tensión de tu lana.  Tejer una muestra con el punto elegido (punto jersey) y contar los puntos y vueltas.  Esto te permitirá calcular la cantidad de puntos necesarios para cada talla.  La muestra te ayudará a ajustar el patrón a tu tensión personal.
+
+**3. Medidas y Puntos:**
+
+* **Talle 4:**
+    * Puntos totales: 56 puntos (aumento de 12 puntos respecto al talle 2)
+    * Delantero: 28 puntos
+    * Espalda: 28 puntos
+    * Sisa: 18 cm (aumento de 2 cm respecto al talle 2)
+    * Cuello: 5 cm (aumento de 1 cm respecto al talle 2)
+
+* **Talle 6:**
+    * Puntos totales: 72 puntos (aumento de 28 puntos respecto al talle 2)
+    * Delantero: 36 puntos
+    * Espalda: 36 puntos
+    * Sisa: 20 cm (aumento de 4 cm respecto al talle 2)
+    * Cuello: 6 cm (aumento de 2 cm respecto al talle 2)
+
+
+**4. Instrucciones paso a paso:**
+
+**A. Espalda:**
+
+1. Montar los puntos correspondientes a la talla elegida (56 para talle 4, 72 para talle 6).
+2. Tejer en punto jersey (derecho en derecho, revés en revés) hasta alcanzar la altura de la sisa (18 cm para talle 4, 20 cm para talle 6).
+3. Para la sisa, cerrar 4 puntos al principio de cada vuelta durante 4 vueltas (16 puntos cerrados en total).
+4. Continuar tejiendo en punto jersey hasta alcanzar la altura del hombro (aprox. 22 cm para talle 4, 24 cm para talle 6 desde el inicio).
+5. Cerrar los puntos restantes.  Repetir para la segunda parte de la espalda.
+
+**B. Delantero:**
+
+1. Montar los puntos correspondientes a la talla elegida (28 para talle 4, 36 para talle 6).
+2. Tejer en punto jersey hasta alcanzar la altura de la sisa (18 cm para talle 4, 20 cm para talle 6).
+3. Para la sisa, cerrar 4 puntos al principio de cada vuelta durante 4 vueltas (16 puntos cerrados en total).
+4. Continuar tejiendo en punto jersey hasta alcanzar la altura del hombro (aprox. 22 cm para talle 4, 24 cm para talle 6 desde el inicio).
+5. Cerrar los puntos restantes. Repetir para la segunda parte del delantero.
+
+**C. Cuello:**
+
+1. Una vez terminadas las piezas de la espalda y el delantero, coser los hombros.
+2. Para el cuello, montar puntos alrededor del escote (aprox. 60 puntos para talle 4, 76 puntos para talle 6).
+3. Tejer en punto elástico 1x1 (1 derecho, 1 revés) durante 5 cm (talle 4) o 6 cm (talle 6).
+4. Cerrar los puntos.
+
+**D. Mangas:**
+
+1. Montar 32 puntos para el talle 4 y 40 puntos para el talle 6.
+2. Tejer en punto jersey, aumentando 1 punto a cada lado cada 4 vueltas, hasta alcanzar la longitud deseada (aprox. 2
